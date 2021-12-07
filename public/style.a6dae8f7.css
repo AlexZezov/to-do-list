@@ -1,0 +1,15 @@
+.jumbotron {
+  min-height: 500px;
+}
+
+.list-item {
+  font-size: 15px;
+  margin-bottom: 0;
+  border-bottom: 1px solid rgba(34, 34, 34, 0.1);
+  cursor: pointer;
+}
+.list-item:hover {
+  color: #3d3be2;
+}
+
+/*# sourceMappingURL=style.a6dae8f7.css.map */
